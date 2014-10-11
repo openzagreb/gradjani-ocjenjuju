@@ -15,4 +15,6 @@ We'll handle the rest and ping you know when it's up!
 
 Reach out to [@lippytak](https://twitter.com/lippytak), [@useronboard](https://twitter.com/useronboard), or [@alanjosephwilli](https://twitter.com/alanjosephwilli) with questions, comments, feedback, or anything else.
 
-Slides based on [deck.js](https://github.com/imakewebthings/deck.js)
+To do:
+- Slides based on [deck.js](https://github.com/imakewebthings/deck.js)
+- Slides could be made with [reveal.js](https://github.com/hakimel/reveal.js) or via https://slides.com
