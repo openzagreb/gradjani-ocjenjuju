@@ -14,3 +14,5 @@ If you send us a slideshow (Keynote or PPT work), we'll do the rest:
 We'll handle the rest and ping you know when it's up!
 
 Reach out to [@lippytak](https://twitter.com/lippytak), [@useronboard](https://twitter.com/useronboard), or [@alanjosephwilli](https://twitter.com/alanjosephwilli) with questions, comments, feedback, or anything else.
+
+Slides based on [deck.js](https://github.com/imakewebthings/deck.js)
